@@ -1,10 +1,3 @@
-\# Nobel Prize Winners Analysis (1901–2025)
-
-
-
-End-to-end analysis using the Nobel Prize API: data collection → preparation → EDA → dashboard.
-
-
 # Nobel Prize Winners Analysis (1901–2025)
 
 End-to-end analytics project using the Nobel Prize API: **data ingestion (JSON) → relational tables → EDA → interactive visualizations / dashboard**.
